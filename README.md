@@ -18,3 +18,6 @@ To anyone coming here to **clone this bot**, no support will be given for it. If
 
 ## Credits
 This repo is forked from [Dank-del/Texus](https://gitlab.com/Dank-del/texus) All rights belongs to them...
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ashui501/itachiBot"> <img 
+src="https://img.shields.io/badge/Deploy%20To%20Heroku-pink?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
+
